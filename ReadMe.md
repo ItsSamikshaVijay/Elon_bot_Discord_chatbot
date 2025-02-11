@@ -2,6 +2,7 @@
 
 * Elon bot is a discord bot runs on python ( discord.py library) to function.
 * It displays APOD from NASA, and news on spacecrafts by accessing the public API.
+* Made for educational and entertainment purposes for people who are into space and spacecrafts
 
 # Screenshot of the demo:
 ## This is how the Tesla APi is displayed in the chat. It is very informational as it embeds the wikipages and other resources along with the information.

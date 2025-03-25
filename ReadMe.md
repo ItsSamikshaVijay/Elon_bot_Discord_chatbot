@@ -1,7 +1,6 @@
 # Elon Bot 
 ### Technologies Used
  ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) 
-![discord.py](https://images.app.goo.gl/sZsXMZddyHEthiH4A)
 
 * Elon bot is a discord bot runs on python ( discord.py library) to function.
 * It displays APOD from NASA, and news on spacecrafts by accessing the public API.

@@ -2,7 +2,6 @@
 ## Technologies Used
 
 - ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python
-- ![VSCode](https://upload.wikimedia.org/wikipedia/commons/5/53/Visual_Studio_Code_1.35_icon.svg) Visual Studio Code
 
 --
 * Elon bot is a discord bot runs on python ( discord.py library) to function.
